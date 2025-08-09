@@ -1,10 +1,9 @@
-# Readme.md
-# This is the readme for 2025 WISER Quantum Project
-# Project Name: Quantum Walks and Monte Carlo
-# Team Name: Team-Q
-# Team Member: Jesmer Wong (ID: gst-lUiSStdno9Zl8Tn)
+This is the readme for 2025 WISER Quantum Project
+Project Name: Quantum Walks and Monte Carlo
+Team Name: Team-Q
+Team Member: Jesmer Wong (ID: gst-lUiSStdno9Zl8Tn)
 
-# Project Summary
+Project Summary
 Project 1 – Quantum Walk and Monte Carlo
 This project aims to implement the concept of Stochastic Random Walk in Quantum World, inspired by the simple toy Galton Board.
 
